@@ -3,7 +3,7 @@
 Este projeto demonstra o padrão Adapter para ler dados de um arquivo CSV e convertê-los em objetos `Pessoa`, sem que o sistema principal precise conhecer detalhes do formato do arquivo.
 
 ## Aluno
-- Matheus Hoegen Baraldi
+- Matheus Hoegen Baraldi - 221589522
 
 ## Classes e Interfaces
 
